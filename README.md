@@ -7,7 +7,7 @@
 The code provided here is intended for learning and experimentation with Discord bots. **I am not responsible for any misuse of this code.**
 
 # stuff u need
-- [Git](https://git-scm.com/downloads)
+- [Git](https://git-scm.com/downloads) (optional, you can also just download from releases and skip the first 4 steps.)
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) 
 

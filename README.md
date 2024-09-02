@@ -11,7 +11,7 @@ The code provided here is intended for learning and experimentation with Discord
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) 
 
-# How to set it up
+# How to set it up (with git)
 
 1. Create a new folder
 2. Open up your perferred terminal, in this tutorial i'll be using the default command prompt
@@ -19,3 +19,11 @@ The code provided here is intended for learning and experimentation with Discord
 4. paste ```git clone https://github.com/Clyv1/discord-spam-bot```
 5. edit ```spambot.js```, change the stuff in red boxes![image](https://github.com/user-attachments/assets/49e02713-e893-4c18-a281-8e97db9bd2f1)
 6. go back to command and run it using the command ```node spambot.js```
+
+
+# How to set it up (without git)
+
+1. Download from [releases](https://github.com/Clyv1/discord-spam-bot/releases/download/1.0/spambot.zip)
+2. Extract the folder
+3. edit ```spambot.js```, change the stuff in red boxes![image](https://github.com/user-attachments/assets/49e02713-e893-4c18-a281-8e97db9bd2f1)
+4. go back to command and run it using the command ```node spambot.js```
